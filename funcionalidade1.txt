@@ -1,1 +1,2 @@
 funcionalidade 1
+Alterando o arquivo funcionalidade1
